@@ -1,3 +1,4 @@
+一个插件模块，iOS原生用的，oc语言写的
 # SCUIDeviceIdentifier
 
 [![CI Status](https://img.shields.io/travis/mjl/SCUIDeviceIdentifier.svg?style=flat)](https://travis-ci.org/mjl/SCUIDeviceIdentifier)
